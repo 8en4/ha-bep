@@ -2,10 +2,12 @@
   "domain": "bep_collectes",
   "name": "BEP Collectes",
   "version": "1.0.0",
-  "documentation": "",
+  "documentation": "https://github.com/8en4/ha-bep",
+  "issue_tracker": "https://github.com/8en4/ha-bep/issues",
   "iot_class": "cloud_polling",
   "config_flow": true,
   "after_dependencies": ["http"],
   "requirements": [],
-  "codeowners": []
+  "codeowners": ["@8en4"]
 }
+``
