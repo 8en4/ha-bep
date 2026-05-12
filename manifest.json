@@ -1,0 +1,11 @@
+{
+  "domain": "bep_collectes",
+  "name": "BEP Collectes",
+  "version": "1.0.0",
+  "documentation": "",
+  "iot_class": "cloud_polling",
+  "config_flow": true,
+  "after_dependencies": ["http"],
+  "requirements": [],
+  "codeowners": []
+}
