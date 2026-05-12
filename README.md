@@ -1,7 +1,7 @@
 # BEP Collectes pour Home Assistant
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
-![version](https://img.shields.io/badge/version-1.0.0-blue)
+![version](https://img.shields.io/badge/version-1.0.1-blue)
 ![maintained](https://img.shields.io/badge/maintained-yes-green)
 
 Intégration Home Assistant pour suivre les **prochaines collectes de déchets BEP** (Bureau Économique de la Province de Namur) en Belgique.
