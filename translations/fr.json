@@ -1,0 +1,26 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Rechercher votre commune",
+        "description": "Tapez un nom de commune ou un code postal",
+        "data": {
+          "search": "Recherche"
+        }
+      },
+      "select": {
+        "title": "Sélectionner votre commune",
+        "data": {
+          "locality": "Commune"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Impossible de se connecter à l'API BEP",
+      "invalid_locality": "Aucune commune trouvée"
+    },
+    "abort": {
+      "already_configured": "Cette commune est déjà configurée"
+    }
+  }
+}
